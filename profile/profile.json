@@ -74,16 +74,16 @@
   ],
   "professional_experience": [
     {
-      "company": "Jarvis",
+      "company": "Knorket.AI",
       "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2020-present",
-      "title": "Software Developer"
+      "duration": "May 2024 - August 2024",
+      "title": "Business System Analyst"
     },
     {
-      "company": "XYZ Company",
+      "company": "Cognizant Technology Solutions",
       "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2019",
-      "title": "Tutor"
+      "duration": "Feb 2021 - April 2023",
+      "title": "Business System Analyst"
     }
   ],
   "skills": {
