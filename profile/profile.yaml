@@ -1,7 +1,7 @@
 # Preferred name (Characters only)
 name: "Supriya Jones"
   # Your GitHub repo root URL
-github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran
 
 # Introduce yourself (80-120 words)
 # Suggestions: you should 
@@ -9,24 +9,30 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
 # 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+summary: Dynamic and detail-oriented Business Systems Analyst with a strong foundation in SQL, data analytics, and business process automation. Proven experience in gathering and analyzing requirements, creating process documentation, and collaborating with stakeholders to deliver data-driven solutions. Adept at leveraging technical skills to drive business insights and support decision-making. Seeking a BSA role to contribute to data-driven initiatives and optimize business processes.
 
 skills:
   # Please include 
   #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
   #     2) business tools (such as Excel, Viso, etc.)
   Business Skills:
-    - Donec
-    - Donec
-    - Donec
-    - fermentum
-    - Donec
+    - Communication
+    - Collaboration
+    - Requirement Elicitation
+    - Stakeholder Management
+    - Documentation
+    - Microsoft Excel
+    - Microsoft Visio  
   # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
   # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
   Technical Skills:
-    - RDBMS/SQL
-    - Data Modeling/Mapping
+    - Advanced SQL (RDBMS)
+    - Data Modeling and Mapping
     - Data Analytics
+    - Python (Pandas, NumPy)
+    - Power BI (Visualization, Dashboarding)
+    - Git (Version Control)
+    - Linux (Command Line, Server Management)       
 
 # List of Jarvis projects
 # Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
@@ -75,19 +81,19 @@ professional_experience:
 
 #List of edcuation
 education: 
-  - school_name: "XYZ university"
-    duration: "2012-2016"
-    degree: "Bachelor of Applied Sciences"
-    department: "Electrical and Computer Engineering"
+  - school_name: "Trent university"
+    duration: "2023-2024"
+    degree: "Master of Management"
+    department: "Business Analysis"
     # optional
     awards_achievements: 
       - "Scholarship"
       - "Dean's List (2015, 2016): Ut enim ad minim veniam"
       - "GPA: 3.8/4.0"
-  - school_name: "XYZ university"
-    duration: "2016-2018"
-    degree: "Master of Engineering"
-    department: "Electrical and Computer Engineering"
+  - school_name: "Karpagam College of Engineering"
+    duration: "2017-2021"
+    degree: "Bachelor of Engineering"
+    department: "Electronics and Communication Engineering"
     awards_achievements: 
 
 #Optional section
