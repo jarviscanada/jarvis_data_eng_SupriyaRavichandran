@@ -21,13 +21,13 @@ skills:
     - Requirement Elicitation
     - Stakeholder Management
     - Documentation
-    - Microsoft ExcelCommunication
-    - Collaboration
-    - Requirement Elicitation
-    - Stakeholder Management
-    - Documentation
     - Microsoft Excel
-    - Microsoft Visio  
+    - Microsoft Visio
+    - Presentation Design
+    - Process Analysis
+    - Risk Management
+    - Cost-Benefit Analysis 
+
   # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
   # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
   Technical Skills:
@@ -121,11 +121,5 @@ others:
       - "Microsoft Azure Fundamentals AZ-900"
       - "Project Management Professional"
       - "Microsoft Power BI Data Analyst (PL-300)"  
-  - title: "Awards"
-    bullets:
-      - "Winner"
-  - title: "Activities/Hobbies"
-    bullets:
-      - "Basketball player; joined xyz club"
-      - "Competitive gaming; compete for xyz"
-      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+
+

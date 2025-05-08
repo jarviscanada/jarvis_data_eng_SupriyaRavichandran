@@ -4,7 +4,7 @@ Dynamic and detail-oriented Business Systems Analyst with a strong foundation in
 
 ## Skills
 
-**Business Skills:** Communication, Collaboration, Requirement Elicitation, Stakeholder Management, Documentation, Microsoft ExcelCommunication, Collaboration, Requirement Elicitation, Stakeholder Management, Documentation, Microsoft Excel, Microsoft Visio
+**Business Skills:** Communication, Collaboration, Requirement Elicitation, Stakeholder Management, Documentation, Microsoft Excel, Microsoft Visio, Presentation Design, Process Analysis, Risk Management, Cost-Benefit Analysis
 
 **Technical Skills:** SQL, Power BI, SSRS, Confluence, Jira, ServiceNow, Git, Linux, Python, Agile, Scrum
 
@@ -51,7 +51,3 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SupriyaRav
 - Microsoft Azure Fundamentals AZ-900
 - Project Management Professional
 - Microsoft Power BI Data Analyst (PL-300)
-- Winner
-- Basketball player; joined xyz club
-- Competitive gaming; compete for xyz
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
