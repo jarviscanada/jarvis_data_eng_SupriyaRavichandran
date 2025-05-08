@@ -21,18 +21,28 @@ skills:
     - Requirement Elicitation
     - Stakeholder Management
     - Documentation
+    - Microsoft ExcelCommunication
+    - Collaboration
+    - Requirement Elicitation
+    - Stakeholder Management
+    - Documentation
     - Microsoft Excel
     - Microsoft Visio  
   # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
   # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
   Technical Skills:
-    - Advanced SQL (RDBMS)
-    - Data Modeling and Mapping
-    - Data Analytics
-    - Python (Pandas, NumPy)
-    - Power BI (Visualization, Dashboarding)
-    - Git (Version Control)
-    - Linux (Command Line, Server Management)       
+    - SQL
+    - Power BI
+    - SSRS
+    - Confluence
+    - Jira
+    - ServiceNow
+    - Git
+    - Linux
+    - Python
+    - Agile
+    - Scrum
+       
 
 # List of Jarvis projects
 # Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
@@ -41,7 +51,7 @@ jarvis_projects:
     git_url: "/linux_sql"
     # Focus on BSA work instead of development work
     # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description: Developed and implemented a Linux-based clustering solution for efficient data management and high availability. Utilized clustering techniques to distribute workloads across multiple nodes, ensuring system reliability and fault tolerance. Integrated tools like Docker for containerization and PostgreSQL for data storage. Automated tasks with Bash scripts and scheduled jobs using crontab for continuous monitoring and data collection. Optimized system performance by managing resource allocation and reducing downtime.
   - name: "Python Data Analytics"
     git_url: "/python_data_anlytics"
     # Focus on BSA work instead of development work
@@ -108,7 +118,9 @@ others:
   - title: "Certificates"
     #list of items
     bullets:
-      - "Udacity Machine Learning (2019)"
+      - "Microsoft Azure Fundamentals AZ-900"
+      - "Project Management Professional"
+      - "Microsoft Power BI Data Analyst (PL-300)"  
   - title: "Awards"
     bullets:
       - "Winner"

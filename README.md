@@ -1,20 +1,19 @@
-
 # Supriya Jones . Jarvis Consulting
 
 Dynamic and detail-oriented Business Systems Analyst with a strong foundation in SQL, data analytics, and business process automation. Proven experience in gathering and analyzing requirements, creating process documentation, and collaborating with stakeholders to deliver data-driven solutions. Adept at leveraging technical skills to drive business insights and support decision-making. Seeking a BSA role to contribute to data-driven initiatives and optimize business processes.
 
 ## Skills
 
-**Business Skills:** Communication, Collaboration, Requirement Elicitation, Stakeholder Management, Documentation, Microsoft Excel, Microsoft Visio
+**Business Skills:** Communication, Collaboration, Requirement Elicitation, Stakeholder Management, Documentation, Microsoft ExcelCommunication, Collaboration, Requirement Elicitation, Stakeholder Management, Documentation, Microsoft Excel, Microsoft Visio
 
-**Technical Skills:** Advanced SQL (RDBMS), Data Modeling and Mapping, Data Analytics, Python (Pandas, NumPy), Power BI (Visualization, Dashboarding), Git (Version Control), Linux (Command Line, Server Management)
+**Technical Skills:** SQL, Power BI, SSRS, Confluence, Jira, ServiceNow, Git, Linux, Python, Agile, Scrum
 
 ## Jarvis Projects
 
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran](https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran)
 
 
-**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran/tree/master/linux_sql)]: Developed and implemented a Linux-based clustering solution for efficient data management and high availability. Utilized clustering techniques to distribute workloads across multiple nodes, ensuring system reliability and fault tolerance. Integrated tools like Docker for containerization and PostgreSQL for data storage. Automated tasks with Bash scripts and scheduled jobs using crontab for continuous monitoring and data collection. Optimized system performance by managing resource allocation and reducing downtime.
 
 **Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran/tree/master/python_data_anlytics)]: Not Started
 
@@ -49,7 +48,9 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SupriyaRav
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
+- Microsoft Azure Fundamentals AZ-900
+- Project Management Professional
+- Microsoft Power BI Data Analyst (PL-300)
 - Winner
 - Basketball player; joined xyz club
 - Competitive gaming; compete for xyz
