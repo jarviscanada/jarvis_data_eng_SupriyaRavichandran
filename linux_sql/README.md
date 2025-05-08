@@ -2,101 +2,124 @@
 
 ## Introduction
 
-This project is a Linux Monitoring Agent designed to collect real-time hardware and system usage metrics from a Linux host and persist them into a PostgreSQL database. It enables centralized monitoring of server performance across multiple machines. The primary users are system administrators and DevOps teams who need to track CPU load, memory availability, disk space, and system activity.
+This project is a Linux Monitoring Agent designed to collect real-time hardware and system usage metrics from a Linux host and persist them into a PostgreSQL database. It enables centralized monitoring of server performance across multiple machines, making it useful for system administrators and DevOps teams.
 
-The agent captures data every minute using a Bash script scheduled via `crontab`. It supports scalable deployment and provides a lightweight and efficient solution to gather server health data. Key technologies used include Bash for scripting, PostgreSQL for data storage, Git for version control, and crontab for automation.
+## Features
+
+* Collects hardware specifications (static data) using `host_info.sh`.
+* Gathers real-time usage metrics (dynamic data) using `host_usage.sh`.
+* Data is persisted in a PostgreSQL database.
+* Uses Docker to run PostgreSQL in a container.
+* Automates data collection every minute using `crontab`.
+
+## Architecture
+
+The monitoring agent follows a client-server model:
+
+* Multiple Linux servers run the monitoring agent scripts (`host_info.sh` and `host_usage.sh`).
+* A central PostgreSQL database collects and stores the data.
+* Data can be analyzed using SQL queries.
+
+## Project Structure
+
+```
+linux_sql/
+├── scripts/
+│   ├── host_info.sh      # Collects hardware specs
+│   ├── host_usage.sh     # Collects usage metrics
+│   └── psql_docker.sh    # Manages PostgreSQL Docker container
+├── sql/
+│   └── ddl.sql           # PostgreSQL database schema
+└── assets/
+    └── linux_monitoring_architecture.png # Architecture diagram
+```
+
+## Prerequisites
+
+* Docker installed on your Linux machine
+* PostgreSQL client installed (psql)
+* Bash shell environment
 
 ## Quick Start
 
-> All scripts assume you're in the `linux_sql/scripts` directory of your project.
-
-### 1. Start the PostgreSQL Docker container
+1. **Start PostgreSQL using Docker**
 
 ```bash
-./psql_docker.sh create postgres rocky1234
-./psql_docker.sh start
-Create database and tables
-psql -h localhost -U postgres -d host_agent -f ../sql/ddl.sql
- Insert host hardware specification
-./host_info.sh localhost 5432 host_agent postgres rocky1234
-Insert system usage
-./host_usage.sh localhost 5432 host_agent postgres rocky1234
- Set up crontab to automate data collection every minute
+./scripts/psql_docker.sh create postgres your_password
+./scripts/psql_docker.sh start
+```
+
+2. **Initialize Database**
+
+```bash
+psql -h localhost -U postgres -d host_agent -f sql/ddl.sql
+```
+
+3. **Collect Hardware Info (One-time)**
+
+```bash
+./scripts/host_info.sh localhost 5432 host_agent postgres your_password
+```
+
+4. **Collect Usage Data (Every minute)**
+
+* Manually: Run the script
+
+```bash
+./scripts/host_usage.sh localhost 5432 host_agent postgres your_password
+```
+
+* Automatically: Setup crontab
+
+```bash
 crontab -e
-# Add the following line (update path as needed)
-* * * * * /home/rocky/dev/jarvis_data_eng_SupriyaRavichandran/linux_sql/scripts/host_usage.sh localhost 5432 host_agent postgres rocky1234 > /tmp/host_usage.log 2>&1
-Implementation
-Architecture
-The architecture includes three Linux machines each running a monitoring agent that connects to a central PostgreSQL server. The agents run on their local crontabs and send data to the DB every minute.
-See diagram: assets/linux_monitoring_architecture.png
+# Add the following line
+* * * * * /path/to/your/project/linux_sql/scripts/host_usage.sh localhost 5432 host_agent postgres your_password > /tmp/host_usage.log 2>&1
+```
 
-Scripts
-psql_docker.sh
-Manages PostgreSQL via Docker
-Usage:
-./psql_docker.sh create postgres rocky1234
-./psql_docker.sh start
-host_info.sh
-Gathers host-level static hardware details
-Inserts data into host_info table
-Usage:
-./host_info.sh localhost 5432 host_agent postgres rocky1234
-host_usage.sh
-Collects dynamic metrics like memory, CPU, and disk I/O
-Inserts data into host_usage table
-Usage: ./host_usage.sh localhost 5432 host_agent postgres rocky1234
-crontab
-Automates host_usage.sh execution every minute
-Ensures continuous data flow for monitoring
-queries.sql
-Database Modeling
-host_info
+## Database Schema
 
-| Column            | Type      | Description                     |
-|-------------------|-----------|---------------------------------|
-| id                | SERIAL    | Primary key                     |
-| hostname          | TEXT      | Unique server hostname          |
-| cpu_number        | INT       | Number of CPUs                  |
-| cpu_architecture  | TEXT      | CPU architecture type           |
-| cpu_model         | TEXT      | CPU model name                  |
-| cpu_mhz           | FLOAT     | CPU speed in MHz                |
-| l2_cache          | INT       | L2 cache size (KB)              |
-| total_mem         | INT       | Total memory available (KB)     |
-| timestamp         | TIMESTAMP | Time of data collection         |
-host_usage
-| Column         | Type      | Description                            |
-|----------------|-----------|----------------------------------------|
-| timestamp      | TIMESTAMP | Time when usage was recorded           |
-| host_id        | INT       | Foreign key referencing `host_info.id` |
-| memory_free    | INT       | Free memory in KB                      |
-| cpu_idle       | FLOAT     | CPU idle percentage                    |
-| cpu_kernel     | FLOAT     | CPU kernel mode usage percentage       |
-| disk_io        | INT       | Disk I/O usage                         |
-| disk_available | INT       | Available disk space in MB             |
+### Table: host\_info
 
-Test
-All scripts were manually tested using the following method:
+| Column            | Type      | Description             |
+| ----------------- | --------- | ----------------------- |
+| id                | SERIAL    | Primary key             |
+| hostname          | TEXT      | Unique server hostname  |
+| cpu\_number       | INT       | Number of CPUs          |
+| cpu\_architecture | TEXT      | CPU architecture type   |
+| cpu\_model        | TEXT      | CPU model name          |
+| l2\_cache         | INT       | L2 cache size (KB)      |
+| total\_mem        | INT       | Total memory (KB)       |
+| timestamp         | TIMESTAMP | Time of data collection |
 
-Ran each script from terminal with correct arguments
+### Table: host\_usage
 
-Verified expected data was inserted into the database via SQL queries
+| Column          | Type      | Description                            |
+| --------------- | --------- | -------------------------------------- |
+| timestamp       | TIMESTAMP | Time when usage was recorded           |
+| host\_id        | INT       | Foreign key referencing `host_info.id` |
+| memory\_free    | INT       | Free memory in KB                      |
+| cpu\_idle       | FLOAT     | CPU idle percentage                    |
+| cpu\_kernel     | FLOAT     | CPU kernel mode usage percentage       |
+| disk\_io        | INT       | Disk I/O usage                         |
+| disk\_available | INT       | Available disk space in MB             |
 
-Debugged cron job using output from /tmp/host_usage.log
+## Troubleshooting
 
-Successful entries appeared in host_info and host_usage tables without error.
+* Check Docker container logs for PostgreSQL issues:
 
-Deployment
-This app was deployed and automated using:
+```bash
+docker logs <your_postgres_container_id>
+```
 
-Git (branch: feature/monitoring_agent)
+* Debug cron job by checking logs:
 
-crontab to automate metrics collection
+```bash
+tail -f /tmp/host_usage.log
+```
 
-PostgreSQL running inside a Docker container
+## Future Improvements
 
-Improvements
-Add alerting mechanism when thresholds are breached (e.g., memory < 100MB)
-
-Improve logging and error handling in shell scripts
-
-Implement support for collecting network usage statistics
+* Add network usage monitoring.
+* Implement alerting for resource threshold breaches.
+* Enhance error handling in shell scripts.
