@@ -49,5 +49,5 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SupriyaRav
 
 ## Miscellaneous
 - Microsoft Azure Fundamentals AZ-900
-- Project Management Professional
+- Google Project Management Professional
 - Microsoft Power BI Data Analyst (PL-300)
