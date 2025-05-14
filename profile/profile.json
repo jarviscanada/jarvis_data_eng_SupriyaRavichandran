@@ -1,0 +1,112 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "Member of the Trent Business Students Association",
+        "Sustainability Initiatives Volunteer",
+        "Professional Development Workshop Coordinator",
+        "GPA:3.6/4"
+      ],
+      "degree": "Master of Management",
+      "department": "Business Analysis",
+      "duration": "2023-2024",
+      "school_name": "Trent university"
+    },
+    {
+      "awards_achievements": [
+        "Member of Technical Club",
+        "Hostel Committee member",
+        "Placement Coordinator",
+        "GPA:3.4/4"
+      ],
+      "degree": "Bachelor of Engineering",
+      "department": "Electronics and Communication Engineering",
+      "duration": "2017-2021",
+      "school_name": "Karpagam College of Engineering"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran",
+  "highlighted_projects": [
+    {
+      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
+      "name": "Web app for resturant"
+    },
+    {
+      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "git_url": null,
+      "name": "Machine Learning"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Developed and implemented a Linux-based clustering solution for efficient data management and high availability. Utilized clustering techniques to distribute workloads across multiple nodes, ensuring system reliability and fault tolerance. Integrated tools like Docker for containerization and PostgreSQL for data storage. Automated tasks with Bash scripts and scheduled jobs using crontab for continuous monitoring and data collection. Optimized system performance by managing resource allocation and reducing downtime.",
+      "git_url": "/linux_sql",
+      "name": "Linux Cluster Resource Monitoring App"
+    },
+    {
+      "description": "",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    }
+  ],
+  "name": "Supriya Jones",
+  "others": [
+    {
+      "bullets": [
+        "Microsoft Azure Fundamentals AZ-900",
+        "Google Project Management Professional",
+        "Microsoft Power BI Data Analyst (PL-300)"
+      ],
+      "title": "Certificates"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Knorket.AI",
+      "description": "Collaborated with stakeholders to align AI-driven solutions with business goals, leading to process improvements and a 15% increase in operational efficiency. Gathered and translated business requirements into deliverables for developers, ensuring alignment with enterprise objectives and facilitating end-to-end project success. Conducted risk management and cost-benefit analyses to drive system enhancements and optimize resource allocation. Created detailed presentation decks outlining project timelines, growth strategies, data-driven insights, and vision for future architecture, supporting strategic decision-making. Performed gap analysis to identify discrepancies between current processes and the desired future state, proposing innovative solutions to address business problems and improve workflows. Organized documentation systems (Confluence, ServiceNow) to enhance communication, issue tracking, and regulatory compliance.",
+      "duration": "May 2024 - August 2024",
+      "title": "Business System Analyst"
+    },
+    {
+      "company": "Cognizant Technology Solutions",
+      "description": "Leveraged SQL for analyzing complex datasets, improving process efficiency by 20% across multiple functions. Designed 15+ Power BI dashboards and 20+ SSRS reports, delivering data-driven insights that improved real-time visibility into key performance metrics. Developed Python automation scripts to reduce manual data processing by 30%, increasing reporting accuracy and speed. Acted as a bridge between business and IT teams, ensuring end-to-end application solutions addressed business challenges while optimizing workflows and ensuring compliance with enterprise standards. Participated in peer reviews and unit testing, ensuring that coding standards and best practices were adhered to during project development. Managed user stories and business requirements documents (BRDs) in an Agile environment using Jira, ensuring efficient collaborative progress between business and IT teams. Led weekly design and architecture meetings, fostering teamwork, and driving alignment among stakeholders. Developed process flow diagrams and business models using Visio, providing detailed-oriented clarity on complex workflows for enhanced project execution.",
+      "duration": "Feb 2021 - April 2023",
+      "title": "Business System Analyst"
+    }
+  ],
+  "skills": {
+    "Business Skills": [
+      "Communication",
+      "Collaboration",
+      "Requirement Elicitation",
+      "Stakeholder Management",
+      "Documentation",
+      "Microsoft Excel",
+      "Microsoft Visio",
+      "Presentation Design",
+      "Process Analysis",
+      "Risk Management",
+      "Cost-Benefit Analysis"
+    ],
+    "Technical Skills": [
+      "SQL",
+      "Power BI",
+      "SSRS",
+      "Confluence",
+      "Jira",
+      "ServiceNow",
+      "Git",
+      "Linux",
+      "Python",
+      "Agile",
+      "Scrum"
+    ]
+  },
+  "summary": "Dynamic and detail-oriented Business Systems Analyst with a strong foundation in SQL, data analytics, and business process automation. Proven experience in gathering and analyzing requirements, creating process documentation, and collaborating with stakeholders to deliver data-driven solutions. Adept at leveraging technical skills to drive business insights and support decision-making. Seeking a BSA role to contribute to data-driven initiatives and optimize business processes."
+}
