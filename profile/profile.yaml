@@ -9,7 +9,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_SupriyaRav
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
 # 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: Dynamic and detail-oriented Business Systems Analyst with a strong foundation in SQL, data analytics, and business process automation. Proven experience in gathering and analyzing requirements, creating process documentation, and collaborating with stakeholders to deliver data-driven solutions. Adept at leveraging technical skills to drive business insights and support decision-making. Seeking a BSA role to contribute to data-driven initiatives and optimize business processes.
+summary: Results-oriented Business Systems Analyst with expertise in SQL, data analytics, and process automation. Proven track record of gathering and analyzing requirements, authoring BRDs and SRDs, and collaborating with stakeholders to deliver scalable, data-driven solutions. Skilled in designing Power BI dashboards, optimizing workflows in ServiceNow, and automating processes with Python, leading to measurable efficiency gains. Adept at bridging business and IT teams, leveraging technical skills to drive strategic decision-making and support continuous improvement.
 
 skills:
   # Please include 
@@ -109,7 +109,7 @@ education:
   - school_name: "Karpagam College of Engineering"
     duration: "2017-2021"
     degree: "Bachelor of Engineering"
-    department: "Eliectronics and Communication Engineering"
+    department: "Electronics and Communication Engineering"
   # optional
     awards_achievements:
 

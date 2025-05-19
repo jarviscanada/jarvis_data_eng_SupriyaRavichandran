@@ -1,6 +1,6 @@
 # Supriya Jones . Jarvis Consulting
 
-Dynamic and detail-oriented Business Systems Analyst with a strong foundation in SQL, data analytics, and business process automation. Proven experience in gathering and analyzing requirements, creating process documentation, and collaborating with stakeholders to deliver data-driven solutions. Adept at leveraging technical skills to drive business insights and support decision-making. Seeking a BSA role to contribute to data-driven initiatives and optimize business processes.
+Results-oriented Business Systems Analyst with expertise in SQL, data analytics, and process automation. Proven track record of gathering and analyzing requirements, authoring BRDs and SRDs, and collaborating with stakeholders to deliver scalable, data-driven solutions. Skilled in designing Power BI dashboards, optimizing workflows in ServiceNow, and automating processes with Python, leading to measurable efficiency gains. Adept at bridging business and IT teams, leveraging technical skills to drive strategic decision-making and support continuous improvement.
 
 ## Skills
 
@@ -34,7 +34,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SupriyaRav
 ## Education
 **Trent university (2023-2024)**, Master of Management, Business Analysis
 
-**Karpagam College of Engineering (2017-2021)**, Bachelor of Engineering, Eliectronics and Communication Engineering
+**Karpagam College of Engineering (2017-2021)**, Bachelor of Engineering, Electronics and Communication Engineering
 
 
 ## Miscellaneous
