@@ -101,7 +101,8 @@ education:
     duration: "2023-2024"
     degree: "Master of Management"
     department: "Business Analysis"
-      
+  # optional
+    awards_achievements:     
   
      
           
@@ -109,7 +110,9 @@ education:
     duration: "2017-2021"
     degree: "Bachelor of Engineering"
     department: "Eliectronics and Communication Engineering"
- 
+  # optional
+    awards_achievements:
+
  
  #Optional section
 others:

@@ -1,26 +1,16 @@
 {
   "education": [
     {
-      "awards_achievements": [
-        "Member of the Trent Business Students Association",
-        "Sustainability Initiatives Volunteer",
-        "Professional Development Workshop Coordinator",
-        "GPA:3.6/4"
-      ],
+      "awards_achievements": null,
       "degree": "Master of Management",
       "department": "Business Analysis",
       "duration": "2023-2024",
       "school_name": "Trent university"
     },
     {
-      "awards_achievements": [
-        "Member of Technical Club",
-        "Hostel Committee member",
-        "Placement Coordinator",
-        "GPA:3.4/4"
-      ],
+      "awards_achievements": null,
       "degree": "Bachelor of Engineering",
-      "department": "Electronics and Communication Engineering",
+      "department": "Eliectronics and Communication Engineering",
       "duration": "2017-2021",
       "school_name": "Karpagam College of Engineering"
     }
@@ -28,14 +18,14 @@
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran",
   "highlighted_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "Developed an interactive Power BI dashboard to analyze customer feedback data collected from multiple sources, providing real-time insights into customer sentiment and satisfaction trends. Conducted requirement elicitation sessions with stakeholders to define KPIs and reporting needs. Utilized SQL for data extraction, transformation, and loading (ETL) processes, ensuring data accuracy. Designed intuitive data visualizations for better decision-making, resulting in a 20% improvement in customer service response time.",
       "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
-      "name": "Web app for resturant"
+      "name": "Customer Feedback Analysis Dashboard"
     },
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "Led a process improvement initiative in ServiceNow to enhance IT service request management, collaborating with cross-functional teams to identify bottlenecks and streamline workflows. Documented current and future state processes using Microsoft Visio, performing gap analysis to identify improvement opportunities. Conducted root cause analysis for recurring service issues, proposing automated solutions to reduce incident resolution time by 30%. Managed project documentation in Confluence and utilized Jira for task tracking and Agile sprint planning.",
       "git_url": null,
-      "name": "Machine Learning"
+      "name": "IT Service Management Optimization"
     }
   ],
   "jarvis_projects": [
@@ -61,21 +51,28 @@
       "bullets": [
         "Microsoft Azure Fundamentals AZ-900",
         "Google Project Management Professional",
-        "Microsoft Power BI Data Analyst (PL-300)"
+        "Microsoft Power BI Data Analyst (PL-300)",
+        "Sustainability Initiatives Volunteer"
       ],
       "title": "Certificates"
     }
   ],
   "professional_experience": [
     {
+      "company": "Jarvis Consulting",
+      "description": "Collaborated with cross-functional teams in an Agile environment, ensuring successful sprint-based project delivery. Authored BRDs (Business Requirements Documents) and SRDs (System Requirements Documents) to maintain clear, actionable requirements. Utilized Bash scripting and Git for process automation and version control, enhancing system efficiency and compliance.",
+      "duration": "April 2025 - Present",
+      "title": "Business System Analyst"
+    },
+    {
       "company": "Knorket.AI",
-      "description": "Collaborated with stakeholders to align AI-driven solutions with business goals, leading to process improvements and a 15% increase in operational efficiency. Gathered and translated business requirements into deliverables for developers, ensuring alignment with enterprise objectives and facilitating end-to-end project success. Conducted risk management and cost-benefit analyses to drive system enhancements and optimize resource allocation. Created detailed presentation decks outlining project timelines, growth strategies, data-driven insights, and vision for future architecture, supporting strategic decision-making. Performed gap analysis to identify discrepancies between current processes and the desired future state, proposing innovative solutions to address business problems and improve workflows. Organized documentation systems (Confluence, ServiceNow) to enhance communication, issue tracking, and regulatory compliance.",
+      "description": "Collaborated with stakeholders to design AI-driven solutions, enhancing process efficiency by 15%. Defined and translated business requirements for developers, ensuring project alignment and on-time delivery. Conducted risk management, cost-benefit analysis, and gap analysis, optimizing system performance. Developed executive presentation decks outlining timelines, growth strategies, and data insights. Streamlined documentation using Confluence and ServiceNow, improving communication, issue tracking, and compliance.",
       "duration": "May 2024 - August 2024",
       "title": "Business System Analyst"
     },
     {
       "company": "Cognizant Technology Solutions",
-      "description": "Leveraged SQL for analyzing complex datasets, improving process efficiency by 20% across multiple functions. Designed 15+ Power BI dashboards and 20+ SSRS reports, delivering data-driven insights that improved real-time visibility into key performance metrics. Developed Python automation scripts to reduce manual data processing by 30%, increasing reporting accuracy and speed. Acted as a bridge between business and IT teams, ensuring end-to-end application solutions addressed business challenges while optimizing workflows and ensuring compliance with enterprise standards. Participated in peer reviews and unit testing, ensuring that coding standards and best practices were adhered to during project development. Managed user stories and business requirements documents (BRDs) in an Agile environment using Jira, ensuring efficient collaborative progress between business and IT teams. Led weekly design and architecture meetings, fostering teamwork, and driving alignment among stakeholders. Developed process flow diagrams and business models using Visio, providing detailed-oriented clarity on complex workflows for enhanced project execution.",
+      "description": "Utilized SQL to analyze complex datasets, enhancing process efficiency by 20%. Designed 15+ Power BI dashboards and 20+ SSRS reports, improving visibility into key metrics. Automated data processing with Python, reducing manual work by 30% and boosting accuracy. Bridged business and IT teams, ensuring solutions met business needs while maintaining compliance. Managed user stories and BRDs in Jira within an Agile framework, promoting seamless collaboration. Led design meetings to align stakeholders, and created Visio diagrams for clear workflow visualization.",
       "duration": "Feb 2021 - April 2023",
       "title": "Business System Analyst"
     }
@@ -104,8 +101,7 @@
       "Git",
       "Linux",
       "Python",
-      "Agile",
-      "Scrum"
+      "Agile/Scrum"
     ]
   },
   "summary": "Dynamic and detail-oriented Business Systems Analyst with a strong foundation in SQL, data analytics, and business process automation. Proven experience in gathering and analyzing requirements, creating process documentation, and collaborating with stakeholders to deliver data-driven solutions. Adept at leveraging technical skills to drive business insights and support decision-making. Seeking a BSA role to contribute to data-driven initiatives and optimize business processes."
