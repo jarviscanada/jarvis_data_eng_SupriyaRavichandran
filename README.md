@@ -15,10 +15,6 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SupriyaRav
 
 **Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran/tree/master/linux_sql)]: Developed and implemented a Linux-based clustering solution for efficient data management and high availability. Utilized clustering techniques to distribute workloads across multiple nodes, ensuring system reliability and fault tolerance. Integrated tools like Docker for containerization and PostgreSQL for data storage. Automated tasks with Bash scripts and scheduled jobs using crontab for continuous monitoring and data collection. Optimized system performance by managing resource allocation and reducing downtime.
 
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran/tree/master/python_data_anlytics)]: Not Started
-
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran/tree/master/hadoop)]: Not Started
-
 
 ## Highlighted Projects
 **Customer Feedback Analysis Dashboard** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Developed an interactive Power BI dashboard to analyze customer feedback data collected from multiple sources, providing real-time insights into customer sentiment and satisfaction trends. Conducted requirement elicitation sessions with stakeholders to define KPIs and reporting needs. Utilized SQL for data extraction, transformation, and loading (ETL) processes, ensuring data accuracy. Designed intuitive data visualizations for better decision-making, resulting in a 20% improvement in customer service response time.
