@@ -1,6 +1,7 @@
 # Supriya Jones . Jarvis Consulting
 
-Business Systems Analyst with expertise in SQL, data analytics, and automation, driving process improvements across diverse industries. Skilled in authoring BRDs and SRDs, designing 15+ Power BI dashboards, and automating workflows with Python, enhancing efficiency by up to 30%. Proficient in optimizing IT service management in ServiceNow and streamlining collaboration using Jira and Confluence. Adept at bridging business and IT, translating complex requirements into scalable solutions that align with organizational goals. Seeking to leverage analytical and technical skills to support data-driven initiatives.
+I'm a detail-oriented and curious Business Systems Analyst with a passion for understanding how things work and making them work better. With a background in engineering and management, I naturally bridge the gap between business needs and technical solutions. I thrive in collaborative environments where I can engage with stakeholders, ask the right questions, and translate ideas into actionable outcomes. Whether it's writing BRDs and SRDs, building dashboards that bring data to life, or automating manual workflows, I enjoy solving problems that matter. My work is driven by a commitment to continuous improvement and a passion for building solutions that make life easierwhether for decision-makers tracking big-picture metrics or everyday users looking for simplicity and clarity.
+
 
 ## Skills
 
@@ -14,6 +15,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SupriyaRav
 
 
 **Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran/tree/master/linux_sql)]: Developed and implemented a Linux-based clustering solution for efficient data management and high availability. Utilized clustering techniques to distribute workloads across multiple nodes, ensuring system reliability and fault tolerance. Integrated tools like Docker for containerization and PostgreSQL for data storage. Automated tasks with Bash scripts and scheduled jobs using crontab for continuous monitoring and data collection. Optimized system performance by managing resource allocation and reducing downtime.
+
+**Stock Trading App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran/tree/master/linux_sql)]: Led the end-to-end creation of Business Requirements Document (BRD) and Software Requirements Document (SRD) for a stock trading application proof of concept. Conducted stakeholder interviews to gather functional and non-functional requirements, defined project scope, and translated business needs into technical specifications. Emphasized usability, accessibility, and integration with third-party services (e.g., Alpha Vantage, bank APIs). Developed scalable documentation for investor and board presentation use, aligning delivery goals for Q2 2026.
 
 
 ## Highlighted Projects

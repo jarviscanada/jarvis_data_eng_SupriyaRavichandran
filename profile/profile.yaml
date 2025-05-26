@@ -1,15 +1,9 @@
-# Preferred name (Characters only)
 name: "Supriya Jones"
-  # Your GitHub repo root URL
-github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran
+github_repo_root_url: "https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran"
 
-# Introduce yourself (80-120 words)
-# Suggestions: you should 
-# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
-# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
-# 3) mention what kind of role you are looking for
-# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: Business Systems Analyst with expertise in SQL, data analytics, and automation, driving process improvements across diverse industries. Skilled in authoring BRDs and SRDs, designing 15+ Power BI dashboards, and automating workflows with Python, enhancing efficiency by up to 30%. Proficient in optimizing IT service management in ServiceNow and streamlining collaboration using Jira and Confluence. Adept at bridging business and IT, translating complex requirements into scalable solutions that align with organizational goals. Seeking to leverage analytical and technical skills to support data-driven initiatives.
+summary: >
+  I'm a detail-oriented and curious Business Systems Analyst with a passion for understanding how things work and making them work better. With a background in engineering and management, I naturally bridge the gap between business needs and technical solutions. I thrive in collaborative environments where I can engage with stakeholders, ask the right questions, and translate ideas into actionable outcomes. Whether it's writing BRDs and SRDs, building dashboards that bring data to life, or automating manual workflows, I enjoy solving problems that matter. My work is driven by a commitment to continuous improvement and a passion for building solutions that make life easierwhether for decision-makers tracking big-picture metrics or everyday users looking for simplicity and clarity.
+
 
 skills:
  
@@ -53,7 +47,9 @@ jarvis_projects:
     # Focus on BSA work instead of development work
     # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
     description: Developed and implemented a Linux-based clustering solution for efficient data management and high availability. Utilized clustering techniques to distribute workloads across multiple nodes, ensuring system reliability and fault tolerance. Integrated tools like Docker for containerization and PostgreSQL for data storage. Automated tasks with Bash scripts and scheduled jobs using crontab for continuous monitoring and data collection. Optimized system performance by managing resource allocation and reducing downtime.
-      #  - name: "Python Data Analytics"
+  - name: "Stock Trading App"
+    git_url: "/linux_sql"
+    description: Led the end-to-end creation of Business Requirements Document (BRD) and Software Requirements Document (SRD) for a stock trading application proof of concept. Conducted stakeholder interviews to gather functional and non-functional requirements, defined project scope, and translated business needs into technical specifications. Emphasized usability, accessibility, and integration with third-party services (e.g., Alpha Vantage, bank APIs). Developed scalable documentation for investor and board presentation use, aligning delivery goals for Q2 2026.
       # git_url: "/python_data_anlytics"
     # Focus on BSA work instead of development work
     # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
