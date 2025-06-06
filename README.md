@@ -1,4 +1,4 @@
-# Supriya Jones . Jarvis Consulting
+
 
 I'm a detail-oriented and curious Business Systems Analyst with a passion for understanding how things work and making them work better. With a background in engineering and management, I naturally bridge the gap between business needs and technical solutions. I thrive in collaborative environments where I can engage with stakeholders, ask the right questions, and translate ideas into actionable outcomes. Whether it's writing BRDs and SRDs, building dashboards that bring data to life, or automating manual workflows, I enjoy solving problems that matter. My work is driven by a commitment to continuous improvement and a passion for building solutions that make life easierwhether for decision-makers tracking big-picture metrics or everyday users looking for simplicity and clarity.
 
@@ -47,3 +47,4 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SupriyaRav
 - Google Project Management Professional
 - Microsoft Power BI Data Analyst (PL-300)
 - Sustainability Initiatives Volunteer
+
