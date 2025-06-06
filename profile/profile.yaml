@@ -1,17 +1,12 @@
-# Preferred name (Characters only)
 name: "Supriya Jones"
-  # Your GitHub repo root URL
-github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran
+github_repo_root_url: "https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran"
 
-# Introduce yourself (80-120 words)
-# Suggestions: you should 
-# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
-# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
-# 3) mention what kind of role you are looking for
-# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: Dynamic and detail-oriented Business Systems Analyst with a strong foundation in SQL, data analytics, and business process automation. Proven experience in gathering and analyzing requirements, creating process documentation, and collaborating with stakeholders to deliver data-driven solutions. Adept at leveraging technical skills to drive business insights and support decision-making. Seeking a BSA role to contribute to data-driven initiatives and optimize business processes.
+summary: >
+  I'm a detail-oriented and curious Business Systems Analyst with a passion for understanding how things work and making them work better. With a background in engineering and management, I naturally bridge the gap between business needs and technical solutions. I thrive in collaborative environments where I can engage with stakeholders, ask the right questions, and translate ideas into actionable outcomes. Whether it's writing BRDs and SRDs, building dashboards that bring data to life, or automating manual workflows, I enjoy solving problems that matter. My work is driven by a commitment to continuous improvement and a passion for building solutions that make life easierwhether for decision-makers tracking big-picture metrics or everyday users looking for simplicity and clarity.
+
 
 skills:
+ 
   # Please include 
   #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
   #     2) business tools (such as Excel, Viso, etc.)
@@ -47,19 +42,25 @@ skills:
 # List of Jarvis projects
 # Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
 jarvis_projects:
+  - name: "Python Data Analytics  Retail Sales Analysis"
+    git_url: "/linux_sql"
+      # Tools Used: Python (pandas, matplotlib), Jupyter Notebook, SQL, Tableau, Excel
+    description: Analyzed retail sales data to uncover customer purchasing patterns, sales trends, and revenue optimization opportunities. Performed data wrangling, created visualizations using matplotlib and Tableau, and delivered insights to guide business strategy. Applied RFM (Recency, Frequency, Monetary) segmentation and designed dashboards to highlight actionable metrics.
   - name: "Linux Cluster Resource Monitoring App"
     git_url: "/linux_sql"
     # Focus on BSA work instead of development work
     # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
     description: Developed and implemented a Linux-based clustering solution for efficient data management and high availability. Utilized clustering techniques to distribute workloads across multiple nodes, ensuring system reliability and fault tolerance. Integrated tools like Docker for containerization and PostgreSQL for data storage. Automated tasks with Bash scripts and scheduled jobs using crontab for continuous monitoring and data collection. Optimized system performance by managing resource allocation and reducing downtime.
-  - name: "Python Data Analytics"
-    git_url: "/python_data_anlytics"
+  - name: "Stock Trading App"
+    git_url: "/linux_sql"
+    description: Led the end-to-end creation of Business Requirements Document (BRD) and Software Requirements Document (SRD) for a stock trading application proof of concept. Conducted stakeholder interviews to gather functional and non-functional requirements, defined project scope, and translated business needs into technical specifications. Emphasized usability, accessibility, and integration with third-party services (e.g., Alpha Vantage, bank APIs). Developed scalable documentation for investor and board presentation use, aligning delivery goals for Q2 2026.
+      # git_url: "/python_data_anlytics"
     # Focus on BSA work instead of development work
     # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
-    description: ""
-  - name: "Hadoop"
-    git_url: "/hadoop"
-    description: ""
+    # description: ""
+    # - name: "Hadoop"
+    # git_url: "/hadoop"
+    # description: ""
 
 # List of personal or academic projects
 # Please focus on transferable skills, such as soft skills and data related skills
@@ -101,15 +102,18 @@ education:
     duration: "2023-2024"
     degree: "Master of Management"
     department: "Business Analysis"
-      
+  # optional
+    awards_achievements:     
   
      
           
   - school_name: "Karpagam College of Engineering"
     duration: "2017-2021"
     degree: "Bachelor of Engineering"
-    department: "Eliectronics and Communication Engineering"
- 
+    department: "Electronics and Communication Engineering"
+  # optional
+    awards_achievements:
+
  
  #Optional section
 others:
