@@ -42,6 +42,10 @@ skills:
 # List of Jarvis projects
 # Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
 jarvis_projects:
+  - name: "Python Data Analytics  Retail Sales Analysis"
+    git_url: "/linux_sql"
+      # Tools Used: Python (pandas, matplotlib), Jupyter Notebook, SQL, Tableau, Excel
+    description: Analyzed retail sales data to uncover customer purchasing patterns, sales trends, and revenue optimization opportunities. Performed data wrangling, created visualizations using matplotlib and Tableau, and delivered insights to guide business strategy. Applied RFM (Recency, Frequency, Monetary) segmentation and designed dashboards to highlight actionable metrics.
   - name: "Linux Cluster Resource Monitoring App"
     git_url: "/linux_sql"
     # Focus on BSA work instead of development work

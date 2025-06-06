@@ -30,6 +30,11 @@
   ],
   "jarvis_projects": [
     {
+      "description": "Analyzed retail sales data to uncover customer purchasing patterns, sales trends, and revenue optimization opportunities. Performed data wrangling, created visualizations using matplotlib and Tableau, and delivered insights to guide business strategy. Applied RFM (Recency, Frequency, Monetary) segmentation and designed dashboards to highlight actionable metrics.",
+      "git_url": "/linux_sql",
+      "name": "Python Data Analytics  Retail Sales Analysis"
+    },
+    {
       "description": "Developed and implemented a Linux-based clustering solution for efficient data management and high availability. Utilized clustering techniques to distribute workloads across multiple nodes, ensuring system reliability and fault tolerance. Integrated tools like Docker for containerization and PostgreSQL for data storage. Automated tasks with Bash scripts and scheduled jobs using crontab for continuous monitoring and data collection. Optimized system performance by managing resource allocation and reducing downtime.",
       "git_url": "/linux_sql",
       "name": "Linux Cluster Resource Monitoring App"
