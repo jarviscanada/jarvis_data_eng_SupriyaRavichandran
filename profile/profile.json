@@ -60,7 +60,7 @@
   "professional_experience": [
     {
       "company": "Jarvis Consulting",
-      "description": "Collaborated with cross-functional teams in an Agile environment, ensuring successful sprint-based project delivery. Authored BRDs (Business Requirements Documents) and SRDs (System Requirements Documents) to maintain clear, actionable requirements. Utilized Bash scripting and Git for process automation and version control, enhancing system efficiency and compliance.",
+      "description": "Collaborated with cross-functional teams in an Agile environment, ensuring successful sprint-based project delivery. Authored BRDs (Business Requirements Documents) and SRDs (System Requirements Documents) to maintain clear, actionable requirements. Utilized Bash scripting and Git for process automation and version control, enhancing system efficiency and compliance. Led a Python-based data analytics project, performing data extraction, cleaning, transformation, and visualization using pandas, matplotlib, and SQL. Generated actionable insights to support sales and inventory decisions.",
       "duration": "April 2025 - Present",
       "title": "Business System Analyst"
     },
