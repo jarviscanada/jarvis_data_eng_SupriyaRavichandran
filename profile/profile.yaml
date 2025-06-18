@@ -84,7 +84,7 @@ professional_experience:
     duration: "April 2025 - Present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: "Collaborated with cross-functional teams in an Agile environment, ensuring successful sprint-based project delivery. Authored BRDs (Business Requirements Documents) and SRDs (System Requirements Documents) to maintain clear, actionable requirements. Utilized Bash scripting and Git for process automation and version control, enhancing system efficiency and compliance."
+    description: "Collaborated with cross-functional teams in an Agile environment, ensuring successful sprint-based project delivery. Authored BRDs (Business Requirements Documents) and SRDs (System Requirements Documents) to maintain clear, actionable requirements. Utilized Bash scripting and Git for process automation and version control, enhancing system efficiency and compliance. Led a Python-based data analytics project, performing data extraction, cleaning, transformation, and visualization using pandas, matplotlib, and SQL. Generated actionable insights to support sales and inventory decisions."
   - title: "Business System Analyst"
     company: "Knorket.AI"
     duration: "May 2024 - August 2024"
