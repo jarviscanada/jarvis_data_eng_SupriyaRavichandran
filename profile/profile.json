@@ -31,7 +31,7 @@
   "jarvis_projects": [
     {
       "description": "Analyzed retail sales data to uncover customer purchasing patterns, sales trends, and revenue optimization opportunities. Performed data wrangling, created visualizations using matplotlib and Tableau, and delivered insights to guide business strategy. Applied RFM (Recency, Frequency, Monetary) segmentation and designed dashboards to highlight actionable metrics.",
-      "git_url": "/linux_sql",
+      "git_url": "/python_data_analytics",
       "name": "Python Data Analytics  Retail Sales Analysis"
     },
     {
