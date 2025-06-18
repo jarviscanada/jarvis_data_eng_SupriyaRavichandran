@@ -19,7 +19,7 @@
   "highlighted_projects": [
     {
       "description": "Developed an interactive Power BI dashboard to analyze customer feedback data collected from multiple sources, providing real-time insights into customer sentiment and satisfaction trends. Conducted requirement elicitation sessions with stakeholders to define KPIs and reporting needs. Utilized SQL for data extraction, transformation, and loading (ETL) processes, ensuring data accuracy. Designed intuitive data visualizations for better decision-making, resulting in a 20% improvement in customer service response time.",
-      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
+      "git_url": null,
       "name": "Customer Feedback Analysis Dashboard"
     },
     {
