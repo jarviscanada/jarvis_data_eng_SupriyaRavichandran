@@ -30,6 +30,11 @@
   ],
   "jarvis_projects": [
     {
+      "description": "Designed and delivered three Power BI dashboards addressing diverse business needs.A Beverages Sales Dashboard visualizing Coca-Colas US regional performance with map visuals, operating profit tracking, and date filtering. A Data Professionals Survey Report analyzing demographics, job satisfaction, and salary insights from 630 respondents to support HR strategy. A real-time Stocks Dashboard powered by Alpha Vantage API, visualizing stock prices, volume, and financial ratios with dynamic filters and DAX-driven measures.",
+      "git_url": "/power_bi",
+      "name": "Power BI Dashboard Collection: Beverages, Survey Insights, and Stock Analytics"
+    },
+    {
       "description": "Analyzed retail sales data to uncover customer purchasing patterns, sales trends, and revenue optimization opportunities. Performed data wrangling, created visualizations using matplotlib and Tableau, and delivered insights to guide business strategy. Applied RFM (Recency, Frequency, Monetary) segmentation and designed dashboards to highlight actionable metrics.",
       "git_url": "/python_data_analytics",
       "name": "Python Data Analytics  Retail Sales Analysis"
