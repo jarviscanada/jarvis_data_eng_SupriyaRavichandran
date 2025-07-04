@@ -30,6 +30,11 @@
   ],
   "jarvis_projects": [
     {
+      "description": "Designed and delivered three Power BI dashboards addressing diverse business needs.A Beverages Sales Dashboard visualizing Coca-Colas US regional performance with map visuals, operating profit tracking, and date filtering. A Data Professionals Survey Report analyzing demographics, job satisfaction and salary insights from 630 respondents to support HR strategy. A real-time Stocks Dashboard powered by Alpha Vantage API, visualizing stock prices, volume, and financial ratios with dynamic filters and DAX-driven measures.",
+      "git_url": "/power_bi",
+      "name": "Power BI Dashboard Collection: Beverages, Survey Insights, and Stock Analytics"
+    },
+    {
       "description": "Analyzed retail sales data to uncover customer purchasing patterns, sales trends, and revenue optimization opportunities. Performed data wrangling, created visualizations using matplotlib and Tableau, and delivered insights to guide business strategy. Applied RFM (Recency, Frequency, Monetary) segmentation and designed dashboards to highlight actionable metrics.",
       "git_url": "/python_data_analytics",
       "name": "Python Data Analytics  Retail Sales Analysis"
@@ -60,7 +65,7 @@
   "professional_experience": [
     {
       "company": "Jarvis Consulting",
-      "description": "Collaborated with cross-functional teams in an Agile environment, ensuring successful sprint-based project delivery. Authored BRDs (Business Requirements Documents) and SRDs (System Requirements Documents) to maintain clear, actionable requirements. Utilized Bash scripting and Git for process automation and version control, enhancing system efficiency and compliance. Led a Python-based data analytics project, performing data extraction, cleaning, transformation, and visualization using pandas, matplotlib, and SQL. Generated actionable insights to support sales and inventory decisions.",
+      "description": "Collaborated with cross-functional teams in an Agile environment to deliver data-driven solutions aligned with business objectives. Developed and maintained Power BI dashboards to support decision-making across departments such as sales, HR, and finance. Conducted requirement elicitation, authored BRDs and SRDs and implemented ETL processes using Python, SQL, and Power Query. Applied DAX for dynamic visualizations and integrated external APIs to enhance reporting capabilities. Automated tasks with Bash scripting and used Git for version control, improving operational efficiency and ensuring traceable, compliant development workflows.",
       "duration": "April 2025 - Present",
       "title": "Business System Analyst"
     },
