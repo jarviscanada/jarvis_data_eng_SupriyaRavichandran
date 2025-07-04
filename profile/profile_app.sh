@@ -85,4 +85,8 @@ render_pdf
 overwrite_readme
 
 echo "Done!"
+cp ../README.md README.md
+
+
+echo "README.md copied to profile/ folder."
 exit 0
