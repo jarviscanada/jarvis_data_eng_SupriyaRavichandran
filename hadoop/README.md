@@ -95,6 +95,7 @@ We performed the following:
 
 ### 📸 Zeppelin Screenshot
 
+![Screenshot description](Zeppelin_screenshot.png)
 
 
 ## 🔧 Improvements
