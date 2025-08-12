@@ -63,9 +63,9 @@ jarvis_projects:
     # Focus on BSA work instead of development work
     # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
     # description: ""
-    # - name: "Hadoop"
-    # git_url: "/hadoop"
-    # description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: "Designed and implemented a Hadoop cluster with 1 master and 2 worker nodes, incorporating core big data tools including HDFS, YARN, Hive (with HiveServer2 and metastore backed by RDBMS), and Zeppelin for notebook analytics. Evaluated and applied big data technologies such as MapReduce and HiveQL for efficient large-scale data processing. Optimized Hive queries by leveraging partitioning and columnar storage formats to improve query performance. Developed Zeppelin notebooks to document data exploration and analytics. Demonstrated hands-on expertise in managing and scaling big data clusters and applying data engineering best practices."
 
 # List of personal or academic projects
 # Please focus on transferable skills, such as soft skills and data related skills
@@ -89,7 +89,7 @@ professional_experience:
     duration: "April 2025 - Present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: "Collaborated with cross-functional teams in an Agile environment to deliver data-driven solutions aligned with business objectives. Developed and maintained Power BI dashboards to support decision-making across departments such as sales, HR, and finance. Conducted requirement elicitation, authored BRDs and SRDs and implemented ETL processes using Python, SQL, and Power Query. Applied DAX for dynamic visualizations and integrated external APIs to enhance reporting capabilities. Automated tasks with Bash scripting and used Git for version control, improving operational efficiency and ensuring traceable, compliant development workflows."
+    description: "Collaborated with cross-functional teams in an Agile environment to deliver data-driven solutions aligned with business goals. Managed Hadoop infrastructure and optimized ETL workflows using PySpark and Hive, improving data processing efficiency. Developed Power BI dashboards integrated with live APIs to provide actionable insights. Automated manual tasks with Python and Bash, increasing operational efficiency. Worked closely with stakeholders to gather and document requirements, translating business needs into technical solutions. Maintained version control and supported Agile project management to ensure transparency and compliance."
   - title: "Business System Analyst"
     company: "Knorket.AI"
     duration: "May 2024 - August 2024"
