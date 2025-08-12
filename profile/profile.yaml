@@ -10,6 +10,33 @@ skills:
   # Please include 
   #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
   #     2) business tools (such as Excel, Viso, etc.)
+  # Business Skills:
+  # - Communication
+  # - Collaboration
+  # - Requirement Elicitation
+  # - Stakeholder Management
+  # - Documentation
+  # - Microsoft Excel
+  # - Microsoft Visio
+  # - Presentation Design
+  # - Process Analysis
+  # - Risk Management
+  # - Cost-Benefit Analysis 
+
+  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
+  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
+  # Technical Skills:
+  # - SQL
+  #  - Power BI
+  # - SSRS
+  # - Confluence
+  # - Jira
+  # - ServiceNow
+  # - Git
+  # - Linux
+  # - Python
+  # - Agile/Scrum
+
   Business Skills:
     - Communication
     - Collaboration
@@ -17,26 +44,31 @@ skills:
     - Stakeholder Management
     - Documentation
     - Microsoft Excel
-    - Microsoft Visio
+    - Microsoft Visio (process mapping, workflow diagrams)
     - Presentation Design
     - Process Analysis
     - Risk Management
-    - Cost-Benefit Analysis 
+    - Cost-Benefit Analysis
+    - User Story Writing
+    - Acceptance Criteria Definition
+    - Agile/Scrum 
+    - Data-Driven Business Recommendations
 
-  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
-  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
   Technical Skills:
     - SQL
     - Power BI
+    - Tableau
     - SSRS
     - Confluence
     - Jira
     - ServiceNow
-    - Git
+    - Git/GitHub
     - Linux
-    - Python
-    - Agile/Scrum
-
+    - Python (pandas, matplotlib)
+    - Bash scripting
+    - Hadoop (HDFS, YARN, MapReduce, Hive)
+    - Apache Spark (PySpark, Spark SQL)
+    - REST API Integration
        
 
 # List of Jarvis projects

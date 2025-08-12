@@ -5,9 +5,9 @@ I'm a detail-oriented and curious Business Systems Analyst with a passion for un
 
 ## Skills
 
-**Business Skills:** Communication, Collaboration, Requirement Elicitation, Stakeholder Management, Documentation, Microsoft Excel, Microsoft Visio, Presentation Design, Process Analysis, Risk Management, Cost-Benefit Analysis
+**Business Skills:** Communication, Collaboration, Requirement Elicitation, Stakeholder Management, Documentation, Microsoft Excel, Microsoft Visio (process mapping, workflow diagrams), Presentation Design, Process Analysis, Risk Management, Cost-Benefit Analysis, User Story Writing, Acceptance Criteria Definition, Agile/Scrum, Data-Driven Business Recommendations
 
-**Technical Skills:** SQL, Power BI, SSRS, Confluence, Jira, ServiceNow, Git, Linux, Python, Agile/Scrum
+**Technical Skills:** SQL, Power BI, Tableau, SSRS, Confluence, Jira, ServiceNow, Git/GitHub, Linux, Python (pandas, matplotlib), Bash scripting, Hadoop (HDFS, YARN, MapReduce, Hive), Apache Spark (PySpark, Spark SQL), REST API Integration
 
 ## Jarvis Projects
 
