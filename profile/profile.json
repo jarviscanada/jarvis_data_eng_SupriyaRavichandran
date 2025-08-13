@@ -48,6 +48,11 @@
       "description": "Led the end-to-end creation of Business Requirements Document (BRD) and Software Requirements Document (SRD) for a stock trading application proof of concept. Conducted stakeholder interviews to gather functional and non-functional requirements, defined project scope, and translated business needs into technical specifications. Emphasized usability, accessibility, and integration with third-party services (e.g., Alpha Vantage, bank APIs). Developed scalable documentation for investor and board presentation use, aligning delivery goals for Q2 2026.",
       "git_url": "/linux_sql",
       "name": "Stock Trading App"
+    },
+    {
+      "description": "Designed and implemented a Hadoop cluster with 1 master and 2 worker nodes, incorporating core big data tools including HDFS, YARN, Hive (with HiveServer2 and metastore backed by RDBMS), and Zeppelin for notebook analytics. Evaluated and applied big data technologies such as MapReduce and HiveQL for efficient large-scale data processing. Optimized Hive queries by leveraging partitioning and columnar storage formats to improve query performance. Developed Zeppelin notebooks to document data exploration and analytics. Demonstrated hands-on expertise in managing and scaling big data clusters and applying data engineering best practices.",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
     }
   ],
   "name": "Supriya Jones",
@@ -65,7 +70,7 @@
   "professional_experience": [
     {
       "company": "Jarvis Consulting",
-      "description": "Collaborated with cross-functional teams in an Agile environment to deliver data-driven solutions aligned with business objectives. Developed and maintained Power BI dashboards to support decision-making across departments such as sales, HR, and finance. Conducted requirement elicitation, authored BRDs and SRDs and implemented ETL processes using Python, SQL, and Power Query. Applied DAX for dynamic visualizations and integrated external APIs to enhance reporting capabilities. Automated tasks with Bash scripting and used Git for version control, improving operational efficiency and ensuring traceable, compliant development workflows.",
+      "description": "Collaborated with cross-functional teams in an Agile environment to deliver data-driven solutions aligned with business goals. Managed Hadoop infrastructure and optimized ETL workflows using PySpark and Hive, improving data processing efficiency. Developed Power BI dashboards integrated with live APIs to provide actionable insights. Automated manual tasks with Python and Bash, increasing operational efficiency. Worked closely with stakeholders to gather and document requirements, translating business needs into technical solutions. Maintained version control and supported Agile project management to ensure transparency and compliance.",
       "duration": "April 2025 - Present",
       "title": "Business System Analyst"
     },
@@ -90,23 +95,31 @@
       "Stakeholder Management",
       "Documentation",
       "Microsoft Excel",
-      "Microsoft Visio",
+      "Microsoft Visio (process mapping, workflow diagrams)",
       "Presentation Design",
       "Process Analysis",
       "Risk Management",
-      "Cost-Benefit Analysis"
+      "Cost-Benefit Analysis",
+      "User Story Writing",
+      "Acceptance Criteria Definition",
+      "Agile/Scrum",
+      "Data-Driven Business Recommendations"
     ],
     "Technical Skills": [
       "SQL",
       "Power BI",
+      "Tableau",
       "SSRS",
       "Confluence",
       "Jira",
       "ServiceNow",
-      "Git",
+      "Git/GitHub",
       "Linux",
-      "Python",
-      "Agile/Scrum"
+      "Python (pandas, matplotlib)",
+      "Bash scripting",
+      "Hadoop (HDFS, YARN, MapReduce, Hive)",
+      "Apache Spark (PySpark, Spark SQL)",
+      "REST API Integration"
     ]
   },
   "summary": "I'm a detail-oriented and curious Business Systems Analyst with a passion for understanding how things work and making them work better. With a background in engineering and management, I naturally bridge the gap between business needs and technical solutions. I thrive in collaborative environments where I can engage with stakeholders, ask the right questions, and translate ideas into actionable outcomes. Whether it's writing BRDs and SRDs, building dashboards that bring data to life, or automating manual workflows, I enjoy solving problems that matter. My work is driven by a commitment to continuous improvement and a passion for building solutions that make life easier, whether for decision-makers tracking big-picture metrics or everyday users looking for simplicity and clarity.\n"

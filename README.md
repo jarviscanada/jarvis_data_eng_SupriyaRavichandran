@@ -5,9 +5,9 @@ I'm a detail-oriented and curious Business Systems Analyst with a passion for un
 
 ## Skills
 
-**Business Skills:** Communication, Collaboration, Requirement Elicitation, Stakeholder Management, Documentation, Microsoft Excel, Microsoft Visio, Presentation Design, Process Analysis, Risk Management, Cost-Benefit Analysis
+**Business Skills:** Communication, Collaboration, Requirement Elicitation, Stakeholder Management, Documentation, Microsoft Excel, Microsoft Visio (process mapping, workflow diagrams), Presentation Design, Process Analysis, Risk Management, Cost-Benefit Analysis, User Story Writing, Acceptance Criteria Definition, Agile/Scrum, Data-Driven Business Recommendations
 
-**Technical Skills:** SQL, Power BI, SSRS, Confluence, Jira, ServiceNow, Git, Linux, Python, Agile/Scrum
+**Technical Skills:** SQL, Power BI, Tableau, SSRS, Confluence, Jira, ServiceNow, Git/GitHub, Linux, Python (pandas, matplotlib), Bash scripting, Hadoop (HDFS, YARN, MapReduce, Hive), Apache Spark (PySpark, Spark SQL), REST API Integration
 
 ## Jarvis Projects
 
@@ -22,6 +22,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SupriyaRav
 
 **Stock Trading App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran/tree/master/linux_sql)]: Led the end-to-end creation of Business Requirements Document (BRD) and Software Requirements Document (SRD) for a stock trading application proof of concept. Conducted stakeholder interviews to gather functional and non-functional requirements, defined project scope, and translated business needs into technical specifications. Emphasized usability, accessibility, and integration with third-party services (e.g., Alpha Vantage, bank APIs). Developed scalable documentation for investor and board presentation use, aligning delivery goals for Q2 2026.
 
+**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SupriyaRavichandran/tree/master/hadoop)]: Designed and implemented a Hadoop cluster with 1 master and 2 worker nodes, incorporating core big data tools including HDFS, YARN, Hive (with HiveServer2 and metastore backed by RDBMS), and Zeppelin for notebook analytics. Evaluated and applied big data technologies such as MapReduce and HiveQL for efficient large-scale data processing. Optimized Hive queries by leveraging partitioning and columnar storage formats to improve query performance. Developed Zeppelin notebooks to document data exploration and analytics. Demonstrated hands-on expertise in managing and scaling big data clusters and applying data engineering best practices.
+
 
 ## Highlighted Projects
 **Customer Feedback Analysis Dashboard**: Developed an interactive Power BI dashboard to analyze customer feedback data collected from multiple sources, providing real-time insights into customer sentiment and satisfaction trends. Conducted requirement elicitation sessions with stakeholders to define KPIs and reporting needs. Utilized SQL for data extraction, transformation, and loading (ETL) processes, ensuring data accuracy. Designed intuitive data visualizations for better decision-making, resulting in a 20% improvement in customer service response time.
@@ -31,7 +33,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SupriyaRav
 
 ## Professional Experiences
 
-**Business System Analyst, Jarvis Consulting (April 2025 - Present)**: Collaborated with cross-functional teams in an Agile environment to deliver data-driven solutions aligned with business objectives. Developed and maintained Power BI dashboards to support decision-making across departments such as sales, HR, and finance. Conducted requirement elicitation, authored BRDs and SRDs and implemented ETL processes using Python, SQL, and Power Query. Applied DAX for dynamic visualizations and integrated external APIs to enhance reporting capabilities. Automated tasks with Bash scripting and used Git for version control, improving operational efficiency and ensuring traceable, compliant development workflows.
+**Business System Analyst, Jarvis Consulting (April 2025 - Present)**: Collaborated with cross-functional teams in an Agile environment to deliver data-driven solutions aligned with business goals. Managed Hadoop infrastructure and optimized ETL workflows using PySpark and Hive, improving data processing efficiency. Developed Power BI dashboards integrated with live APIs to provide actionable insights. Automated manual tasks with Python and Bash, increasing operational efficiency. Worked closely with stakeholders to gather and document requirements, translating business needs into technical solutions. Maintained version control and supported Agile project management to ensure transparency and compliance.
 
 **Business System Analyst, Knorket.AI (May 2024 - August 2024)**: Collaborated with stakeholders to design AI-driven solutions, enhancing process efficiency by 15%. Defined and translated business requirements for developers, ensuring project alignment and on-time delivery. Conducted risk management, cost-benefit analysis, and gap analysis, optimizing system performance. Developed executive presentation decks outlining timelines, growth strategies, and data insights. Streamlined documentation using Confluence and ServiceNow, improving communication, issue tracking, and compliance.
 
