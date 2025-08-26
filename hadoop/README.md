@@ -1,3 +1,4 @@
+
 # 🐘 Hive Big Data Project
 
 ## 📌 Problem Statement
@@ -117,3 +118,4 @@ We performed the following:
 | Use of Parquet format for queries   | ✅       |
 | Zeppelin notebook with clean output | ✅       |
 | Performance comparisons             | ✅       |
+
