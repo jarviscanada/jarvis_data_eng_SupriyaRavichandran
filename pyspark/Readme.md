@@ -1,6 +1,7 @@
 # Data Analytics Project
 
-This repository contains two separate data analytics projects implemented using **Spark**, **Hive**, **Databricks**, and **Zeppelin**.
+## Introduction
+A UK-based online retail company wants to turn raw transaction logs into decision-ready insights that drive revenue growth and retention. The current reporting is spreadsheet-driven, slow to refresh, and fragile for large files. This repository modernizes the workflow by implementing repeatable, scalable analytics pipelines on Databricks (Azure) and Zeppelin (Hadoop), producing KPIs such as Monthly Revenue, Orders (placed vs. cancelled), Sales Growth, MAU (Monthly Active Users), New vs. Existing Users, and RFM-based customer segmentation using Spark, Hive, Databricks, and Zeppelin.
 
 ---
 
@@ -113,3 +114,4 @@ The Retail Data Analytics project analyzes online retail transactions to compute
 3. Integrate **Customer Lifetime Value (CLV) and churn predictions** with ML models.
 4. Centralize governance with **Unity Catalog** and access controls.
 5. Create interactive **BI dashboards** in Power BI or Databricks SQL for end-users.
+
